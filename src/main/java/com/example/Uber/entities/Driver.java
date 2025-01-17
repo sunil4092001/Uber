@@ -1,6 +1,7 @@
 package com.example.Uber.entities;
 
 import jakarta.persistence.*;
+import org.locationtech.jts.geom.Point;
 
 import java.awt.*;
 
